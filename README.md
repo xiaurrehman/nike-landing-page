@@ -1,6 +1,6 @@
 # React + Vite
-
-Nike Landing Page <img src="landing-page.png" alt="Screenshot" width="500">
+Nike Landing Page: 
+<img src="landing-page.png" alt="Screenshot" width="100%">
 
 Currently, two official plugins are available:
 
